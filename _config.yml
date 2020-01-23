@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.dcassol.com
-title: Daniela Cassol
-email: danicassol@gmail.com
-author: Daniela Cassol
-description: "Daniela's Personal Page"
+url: http://www.arosehale@github.io
+title: Amanda Rose Hale
+email: amandarhale@gmail.com
+author: Amanda Hale
+description: "Amanda's Personal Page"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -26,13 +26,13 @@ gems:
 social:
   - icon: github
     title: github
-    url: https://github.com/dcassol  
+    url: https://github.com/arosehale  
   - icon: envelope-o
     title: email
-    url: mailto:danicassol@gmail.com
+    url: mailto:amandarhale@gmail.com
   - icon: linkedin
     title: linkedin
-    url: https://www.linkedin.com/in/dcassol/
+    url: https://www.linkedin.com/in/amandarosehale 
   - icon: file-pdf-o
     title: CV
     url: img/CassolDanielaCV.pdf
@@ -41,5 +41,5 @@ social:
 #    url: http://lattes.cnpq.br/5399100590606067
   - icon: twitter
     title: twitter
-    url: https://twitter.com/danicassol
+    url: https://twitter.com/amandarosehale
 
